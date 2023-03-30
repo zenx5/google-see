@@ -1,0 +1,11 @@
+{"type": "commonjs",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
